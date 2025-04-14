@@ -25,13 +25,11 @@ Interactive Interface: User-friendly interface for model creation and result int
 
 ## Planned Features
 Solver for beams with varied cross sections
-GUI
-Result export to .csv / .pdf
-
 <p align="center">
 <img src="cs_beams.png" alt="Alt text" width="20%"/>
 </p>
-
+GUI
+Result export to .csv / .pdf
 
 ## Installation
 ...
