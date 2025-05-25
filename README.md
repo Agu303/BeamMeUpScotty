@@ -47,7 +47,7 @@ BeamMeUpScotty is a 2D structural analysis tool developed in Python. It enables 
 1.  **Clone the repository:**
     ```bash
     git clone <repository-url>  # Replace <repository-url> with the actual URL
-    cd BeamMeUpScotty_v2
+    cd BeamMeUpScotty
     ```
 
 2.  **Create a virtual environment (recommended):**
