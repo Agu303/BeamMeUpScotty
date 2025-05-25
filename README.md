@@ -121,7 +121,7 @@ pip install -r requirements.txt
 
 MIT License
 
-Copyright (c) [Year] [Your Name/Organization]
+Copyright (c) [2025] Alvaro Guerra
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
